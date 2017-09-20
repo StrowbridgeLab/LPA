@@ -2,7 +2,7 @@
 
 ## Description
 
-This device is for recording electrical spiking responses from brain cells. It is a variation on commonly-used patch clamp amplifiers (https://en.wikipedia.org/wiki/Patch_clamp) but specialized to allow relatively high voltages (100s of mV) to be applied to neurons through low-resistance seals. Using this device, brief depolarizing stimulus pulses can trigger action potentials in neurons which can be recorded through the same amplifier.
+This device is for recording electrical spiking responses from brain cells. It is a variation on commonly used patch clamp amplifiers (https://en.wikipedia.org/wiki/Patch_clamp) but specialized to allow relatively high voltages (100s of mV) to be applied to neurons through low-resistance seals. Using this device, brief depolarizing stimulus pulses can trigger action potentials in neurons that can be recorded through the same amplifier.
 
 The construction and operation of this circuit is described in the following article:
 
