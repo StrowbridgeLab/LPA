@@ -12,10 +12,10 @@ The **PCB files** folder contains files needed to have the headstage amplifier c
 
 ## Contact Information
 
-Ben W. Strowbridge 
-Dept. of Neurosciences 
-Case Western Reserve University 
-Cleveland, Ohio 44106 
+Ben W. Strowbridge <br />
+Dept. of Neurosciences <br />
+Case Western Reserve University <br />
+Cleveland, Ohio 44106 <br />
 bens@case.edu
 
 ## License
